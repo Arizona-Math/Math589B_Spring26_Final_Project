@@ -23,7 +23,7 @@ $u^* = -\lambda_2 \cos(\theta)$
 ## Task
 
 Given:
-$\theta, \phi$
+$\theta, \phi, \alpha$
 
 Return:
 $\lambda_1, \lambda_2, J$
