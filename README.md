@@ -30,7 +30,7 @@ $\lambda_1, \lambda_2, J$
 
 ## Program Interface
 
-`./solver theta phi`
+`./solver theta phi`alpha
 
 Output:
 `lambda1 lambda2 J`
