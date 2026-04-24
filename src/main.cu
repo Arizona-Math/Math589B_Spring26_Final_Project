@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 
     double theta = std::atof(argv[1]);
     double phi   = std::atof(argv[2]);
-    double alpha   = std::atof(argv[3]);
+    double alpha = std::atof(argv[3]);
 
     Result r = solve(theta, phi, alpha);
 
