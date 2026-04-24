@@ -1,5 +1,6 @@
 # Math 589B Final Programming Project (Spring 2026)
 
+
 ## Problem
 
 We consider the controlled pendulum:
