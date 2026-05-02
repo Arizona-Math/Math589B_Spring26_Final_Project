@@ -35,5 +35,4 @@ $\lambda_1, \lambda_2, J$
 Output:
 `lambda1 lambda2 J`
 
-
 More details coming this week.
